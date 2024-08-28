@@ -1,2 +1,3 @@
 # pokemon
 # galeria
+# galeria
